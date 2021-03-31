@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\MainWindow.o
+./release\XmlHelperPrivate.o
+./release\SerialPortThread.o
+./release\CANHandler.o
+./release\querythread.o
+./release\sqliteutil.o
+./release\networkUDP.o
+./release\networkTCP.o
+./release\moc_MainWindow.o
+./release\moc_SerialPortThread.o
+./release\moc_querythread.o
+./release\moc_networkUDP.o
+./release\moc_networkTCP.o
+./release\qrc_pngImages.o
+);

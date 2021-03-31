@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <用户信息>
+        <Node age="30" name="张三"/>
+        <Node age="30" name="张三"/>
+        <Node age="30" name="张三"/>
+        <Node age="30" name="张三"/>
+    </用户信息>
+</Root>

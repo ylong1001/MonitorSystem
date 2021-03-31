@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\MainWindow.o
+./debug\XmlHelperPrivate.o
+./debug\SerialPortThread.o
+./debug\CANHandler.o
+./debug\querythread.o
+./debug\sqliteutil.o
+./debug\networkUDP.o
+./debug\networkTCP.o
+./debug\moc_MainWindow.o
+./debug\moc_SerialPortThread.o
+./debug\moc_querythread.o
+./debug\moc_networkUDP.o
+./debug\moc_networkTCP.o
+./debug\qrc_pngImages.o
+);
